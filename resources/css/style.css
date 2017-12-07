@@ -9,7 +9,8 @@ ul{list-style-type: none;
 font-family: Helvetica;
 font-size: 18px;
 color: white;
-text-decoration: underline;}
+text-decoration: underline;
+line-height: 1.8;}
 h2{font-family: Helvetica;
 font-size: 32px;
 font-weight: bold;}
@@ -28,3 +29,4 @@ font-size: 11px;
 color: white;
 background-color: dimgray;
 text-align: left}
+span{text-decoration: underline;}
